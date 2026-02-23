@@ -1,0 +1,41 @@
+1. C) String
+
+2. A) 0
+
+3. B) super
+
+4. C) Default constructor
+
+5. B) Same as class name
+
+6. C) Same method signature
+
+7. C) Interfaces
+
+8. B) One abstract method
+
+9. C) filter()
+
+10. B) Transforms data
+
+11. A) collect(Collectors.toList())
+
+12. A) Java Database Connectivity
+
+13. B) Statement
+
+14. B) executeQuery()
+
+15. A) next()
+
+16. B) PreparedStatement
+
+17. A) ->
+
+18. C) Inheritance
+
+19. B) Initialize object
+
+20. B) java.sql
+
+
