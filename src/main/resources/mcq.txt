@@ -38,4 +38,6 @@
 
 20. B) java.sql
 
+Score 20/20
+
 
